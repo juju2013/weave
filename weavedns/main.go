@@ -3,9 +3,9 @@ package main
 import (
 	"flag"
 	"fmt"
-	. "github.com/zettio/weave/common"
-	weavedns "github.com/zettio/weave/nameserver"
-	weavenet "github.com/zettio/weave/net"
+	. "github.com/juju2013/weave/common"
+	weavedns "github.com/juju2013/weave/nameserver"
+	weavenet "github.com/juju2013/weave/net"
 	"io"
 	"net"
 	"os"

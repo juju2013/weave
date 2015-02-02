@@ -3,7 +3,7 @@ package nameserver
 import (
 	"fmt"
 	"github.com/miekg/dns"
-	. "github.com/zettio/weave/common"
+	. "github.com/juju2013/weave/common"
 	"net"
 )
 

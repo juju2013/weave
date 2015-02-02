@@ -2,7 +2,7 @@ package nameserver
 
 import (
 	"fmt"
-	wt "github.com/zettio/weave/testing"
+	wt "github.com/juju2013/weave/testing"
 	"math/rand"
 	"net"
 	"net/http"

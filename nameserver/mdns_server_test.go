@@ -2,8 +2,8 @@ package nameserver
 
 import (
 	"github.com/miekg/dns"
-	"github.com/zettio/weave/common"
-	wt "github.com/zettio/weave/testing"
+	"github.com/juu2013/weave/common"
+	wt "github.com/juju2013/weave/testing"
 	"log"
 	"net"
 	"testing"
